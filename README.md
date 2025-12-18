@@ -1,6 +1,4 @@
-# SIW Federazione Sportiva
-
-![Logo SIW](siw-federazione/src/main/resources/static/images/logo-siw.png)
+# <img src="siw-federazione/src/main/resources/static/images/logo-siw.png" alt="SIW Federazione Logo" width="40" height="40" style="vertical-align: bottom;" /> SIW Federazione
 
 ## 📋 Descrizione del Progetto
 
